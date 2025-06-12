@@ -1,3 +1,4 @@
+import RegisterCompany from "@/components/feature/RegisterCompany";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -9,9 +10,7 @@ export default function CadastroEmpresas() {
   return (
     <>
       <h1>CADASTRO EMPRESAS</h1>
-      <div>
-
-      </div>
+      <RegisterCompany />
     </>
   );
 }

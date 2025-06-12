@@ -1,4 +1,4 @@
-import RegisterLinks from "@/components/feature/site/home/RegisterLinks";
+import RegisterLinks from "@/components/feature/RegisterLinks";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
