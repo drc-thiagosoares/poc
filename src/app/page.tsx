@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: "home description",
 };
 
-export default function Home() {
+export default function HomePage() {
   return (
     <>
       <RegisterLinks />

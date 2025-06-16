@@ -5,10 +5,10 @@ export default function RegisterLinks() {
     <>
       <ul>
         <li>
-          <Link href="/cadastro/candidatos">Cadastro Candidato</Link>
+          <Link href="/register/user">Cadastro Candidato</Link>
         </li>
         <li>
-          <Link href="/cadastro/empresas">Cadastro Empresa</Link>
+          <Link href="/register/company">Cadastro Empresa</Link>
         </li>
       </ul>
     </>

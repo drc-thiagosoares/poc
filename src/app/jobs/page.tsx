@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "fitness | Empresas",
-  description: "empresas description",
+  title: "fitness | Jobs",
+  description: "jobs description",
 };
 
-export default function Empresas() {
+export default function JobsPage() {
   return (
     <>
-      <h1>Empresas</h1>
+      <h1>Jobs</h1>
       <div>
 
       </div>

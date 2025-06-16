@@ -6,9 +6,9 @@ export default function Header() {
       <header>
         <div>
           <Link href="/">Home</Link> | 
-          | <Link href="/vagas">Vagas</Link> | 
-          | <Link href="/empresas">Empresas</Link> | 
-          | <Link href="/contato">Contato</Link>
+          | <Link href="/jobs">Jobs</Link> | 
+          | <Link href="/companies">Companies</Link> | 
+          | <Link href="/contact">Contact</Link>
         </div>
       </header>
     </>

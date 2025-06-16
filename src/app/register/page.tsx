@@ -13,10 +13,10 @@ export default function Cadastro() {
       <div>
         <ul>
           <li>
-            <Link href="/cadastro/candidatos">Cadastro Candidato</Link> 
+            <Link href="/register/user">Cadastro Candidato</Link> 
           </li>
           <li>
-            <Link href="/cadastro/empresas">Cadastro Empresas</Link> 
+            <Link href="/register/company">Cadastro Empresas</Link> 
           </li>
         </ul>
       </div>
