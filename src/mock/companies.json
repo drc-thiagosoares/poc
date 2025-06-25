@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "name": "Ironberg",
+    "city": "São Paulo",
+    "state": "SP",
+    "website": "https://www.ironberg.com.br/"
+  },
+  {
+    "id": "2",
+    "name": "Tecfit",
+    "city": "São Paulo",
+    "state": "SP",
+    "website": "https://www.tecfitbrasil.com/"
+  },
+  {
+    "id": "3",
+    "name": "Bio Ritimo",
+    "city": "São Paulo",
+    "state": "SP",
+    "website": "https://www.bioritmo.com.br/"
+  },
+  {
+    "id": "4",
+    "name": "Reebok Club",
+    "city": "São Paulo",
+    "state": "SP",
+    "website": "https://new.reebokclub.com.br/"
+  },
+  {
+    "id": "5",
+    "name": "Smart Fit",
+    "city": "São Paulo",
+    "state": "SP",
+    "website": "https://www.smartfit.com.br/"
+  },
+  {
+    "id": "6",
+    "name": "Blue Fit",
+    "city": "São Paulo",
+    "state": "SP",
+    "website": "https://www.bluefit.com.br/"
+  },
+  {
+    "id": "7",
+    "name": "Sky Fit",
+    "city": "São Paulo",
+    "state": "SP",
+    "website": "https://skyfitacademia.com/"
+  },
+  {
+    "id": "8",
+    "name": "Panobianco",
+    "city": "São Paulo",
+    "state": "SP",
+    "website": "https://www.panobiancoacademia.com.br/"
+  }
+]
+
+

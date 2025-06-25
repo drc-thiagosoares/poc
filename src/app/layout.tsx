@@ -11,7 +11,7 @@ export default function RootLayout({
     <html lang="en">
       <meta charSet="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <body className="text-blueGray-700 antialiased">
+      <body className="w-full antialiased">
         <Header />
         {children}
       </body>

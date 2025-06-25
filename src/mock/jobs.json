@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Professor(a) de Natação",
+    "contract": "Salário Fixo",
+    "value": 5.000,
+    "location": "São Paulo - SP",
+    "description": "Estamos montando o time de uma nova academia que em breve será inaugurada."
+  },
+  {
+    "id": "2",
+    "title": "Professor(a) de Musculação",
+    "contract": "Salário Fixo",
+    "value": 5.000,
+    "location": "São Paulo - SP",
+    "description": "Estamos montando o time de uma nova academia que em breve será inaugurada."
+  },
+  {
+    "id": "3",
+    "title": "Estágiário(a) Natação",
+    "contract": "Salário Fixo",
+    "value": 1.500,
+    "location": "São Paulo - SP",
+    "description": "Estamos montando o time de uma nova academia que em breve será inaugurada."
+  },
+  {
+    "id": "4",
+    "title": "Atendente Recepção",
+    "contract": "Salário Fixo",
+    "value": 2.500,
+    "location": "São Paulo - SP",
+    "description": "Estamos montando o time de uma nova academia que em breve será inaugurada."
+  },
+  {
+    "id": "5",
+    "title": "Personal Trainer",
+    "contract": "Horas Trabalhadas",
+    "value": 100,
+    "location": "São Paulo - SP",
+    "description": "Estamos montando o time de uma nova academia que em breve será inaugurada."
+  }
+]
